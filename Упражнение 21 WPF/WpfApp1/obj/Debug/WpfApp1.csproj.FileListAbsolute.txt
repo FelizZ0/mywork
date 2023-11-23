@@ -1,0 +1,28 @@
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21 WPF\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21 WPF\WpfApp1\bin\Debug\WpfApp1.exe
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21 WPF\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21 WPF\WpfApp1\obj\Debug\MainWindow.baml
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21 WPF\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21 WPF\WpfApp1\obj\Debug\App.g.cs
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1.exe
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1.pdb
+S:\ИСП411д\Канайкин\Упражнение 21 WPF\WpfApp1\bin\Debug\WpfApp1.exe.config
+S:\ИСП411д\Канайкин\Упражнение 21 WPF\WpfApp1\bin\Debug\WpfApp1.exe
+S:\ИСП411д\Канайкин\Упражнение 21 WPF\WpfApp1\bin\Debug\WpfApp1.pdb
+S:\ИСП411д\Канайкин\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+S:\ИСП411д\Канайкин\Упражнение 21 WPF\WpfApp1\obj\Debug\MainWindow.baml
+S:\ИСП411д\Канайкин\Упражнение 21 WPF\WpfApp1\obj\Debug\MainWindow.g.cs
+S:\ИСП411д\Канайкин\Упражнение 21 WPF\WpfApp1\obj\Debug\App.g.cs
+S:\ИСП411д\Канайкин\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+S:\ИСП411д\Канайкин\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1.g.resources
+S:\ИСП411д\Канайкин\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+S:\ИСП411д\Канайкин\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+S:\ИСП411д\Канайкин\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+S:\ИСП411д\Канайкин\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1.exe
+S:\ИСП411д\Канайкин\Упражнение 21 WPF\WpfApp1\obj\Debug\WpfApp1.pdb

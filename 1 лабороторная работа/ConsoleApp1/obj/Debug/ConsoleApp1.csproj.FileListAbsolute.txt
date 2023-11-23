@@ -1,0 +1,14 @@
+E:\4 курс\Zadeba\Evdokimov\1 лабороторная работа\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\4 курс\Zadeba\Evdokimov\1 лабороторная работа\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\4 курс\Zadeba\Evdokimov\1 лабороторная работа\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\4 курс\Zadeba\Evdokimov\1 лабороторная работа\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\4 курс\Zadeba\Evdokimov\1 лабороторная работа\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\4 курс\Zadeba\Evdokimov\1 лабороторная работа\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\4 курс\Zadeba\Evdokimov\1 лабороторная работа\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+S:\ИСП411д\Канайкин\1 лабороторная работа\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+S:\ИСП411д\Канайкин\1 лабороторная работа\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+S:\ИСП411д\Канайкин\1 лабороторная работа\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+S:\ИСП411д\Канайкин\1 лабороторная работа\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+S:\ИСП411д\Канайкин\1 лабороторная работа\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+S:\ИСП411д\Канайкин\1 лабороторная работа\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+S:\ИСП411д\Канайкин\1 лабороторная работа\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

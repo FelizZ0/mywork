@@ -1,0 +1,7 @@
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\4 курс\Zadeba\Evdokimov\Упражнение 21\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
